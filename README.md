@@ -1,4 +1,4 @@
-# Healthcare-stocks-dashboard
+# Healthcare-Stocks-Dashboard
 A simulated Tableau dashboard analyzing 5 healthcare stocks using fictional data for visualization practice
 
 
